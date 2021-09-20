@@ -72,8 +72,9 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Planning | H | 3hrs|  | 3.5hrs |
-| Setting up airtabel | H | 3hrs| | 2hrs |
+
+| Planning | H | 3hrs|  | 3hrs |
+| Setting up airtabel | H | 3hrs| | 3hrs |
 | Routing Setup/skeleton| H | 3hrs|  | 3hrs |
 | Axios Requests| H | 3hrs|  | 3hrs |
 | Improve Api calls| H | 3hrs|  | 3hrs |
@@ -84,6 +85,8 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 | Posts Rendering| H | 3hrs|| 3hrs |
 | Page setups| H | 3hrs| | 3hrs |
 | React Strcture| H | 3hrs| | 3hrs |
+| add styling | H | 3hrs|  | 3hrs |
+| style each component | H | 3hrs|  | 3hrs |
 | Total| H | | | 0hrs |
 
 
