@@ -10,10 +10,10 @@ A rating app for all of anime to be discussed.
 
 ## Wireframes
 
-![Save 1](https://user-images.githubusercontent.com/88213280/134049234-6e6c66ac-4764-4c4e-bd10-6157ed4e308f.jpg)
+![Desktop](https://user-images.githubusercontent.com/88213280/134072821-4cda00d2-2460-4302-b955-eb1c6da815df.jpg)
 
 
-![Save 2](https://user-images.githubusercontent.com/88213280/134049248-0beaf925-f508-4b5c-863d-3cb1696bafd9.jpg)
+![edit form desktop](https://user-images.githubusercontent.com/88213280/134072827-c5c45f35-56e9-4304-925c-87655ecb714a.jpg)
 
 
 ![S3](https://user-images.githubusercontent.com/88213280/134049267-60878d9c-18fe-4c54-bca3-d43bda025576.jpg)
@@ -26,7 +26,7 @@ A rating app for all of anime to be discussed.
 ![Components Heirarchry](https://user-images.githubusercontent.com/88213280/134052160-ff552031-0d17-4c8c-9983-fbe4b6f17fe5.jpg)
 
 ## API and Data Sample
-`
+```
 {
     "records": [
         {
@@ -53,25 +53,14 @@ A rating app for all of anime to be discussed.
     ],
     "offset": "recx6BZAavxCWY5Ds"
 }
-`
+```
 ### MVP/PostMVP
 
 The functionality will then be divided into two separate lists: MVP and PostMVP.  Carefully decide what is placed into your MVP, as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
 *React
-Be a working, interactive React app, built using create react app.
-Utilize React Router, installed via NPM.
-Have at least 6 separate, rendered components.
-Implement an organized and understandable React file structure.
-Utilize functional and/or class React components appropriately.
-Use Axios to consume data from Airtable, and GET/render that data in your components.
-Use Axios to POST/create new data on Airtable.
-Use only React for DOM Manipulation.
-Styling
-Be styled, use any combination of CSS, Styled Components, CSS-in-JS, or a component library to style your React project.
-Use flexbox (display: flex) or CSS Grid (N/A if using a component library that handles this).
-Implement responsive design on 2 screen sizes, using a media query (desktop and mobile and N/A if using a component library that handles this).
+
  *Linting
 Indent properly.
 Utilize high-quality, semantic variable names.
