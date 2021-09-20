@@ -1,4 +1,4 @@
-# Project Overview
+Screenshot from 2021-09-20 10-28-13# Project Overview
 
 ## Project Name
 
@@ -6,17 +6,20 @@ Tofus Anime
 
 ## Project Description
 
-A rating app for all of anime to be discussed 
+A rating app for all of anime to be discussed.
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+![Save 1](https://user-images.githubusercontent.com/88213280/134049234-6e6c66ac-4764-4c4e-bd10-6157ed4e308f.jpg)
+![Save 2](https://user-images.githubusercontent.com/88213280/134049248-0beaf925-f508-4b5c-863d-3cb1696bafd9.jpg)
+![S3](https://user-images.githubusercontent.com/88213280/134049267-60878d9c-18fe-4c54-bca3-d43bda025576.jpg)
+![S4](https://user-images.githubusercontent.com/88213280/134049284-73d59da4-ff48-415d-9ad2-3f0c180c1d98.jpg)
 
 ## Component Hierarchy
 Show your component hierarchy here! Use [this](https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/image/GettingStartedWithReduxTutorial-React-Component-Structure.png) as an example.
 
 ## API and Data Sample
-
+`
 {
     "records": [
         {
@@ -43,6 +46,7 @@ Show your component hierarchy here! Use [this](https://cms-assets.tutsplus.com/u
     ],
     "offset": "recx6BZAavxCWY5Ds"
 }
+`
 ### MVP/PostMVP
 
 The functionality will then be divided into two separate lists: MVP and PostMVP.  Carefully decide what is placed into your MVP, as the client will expect this functionality to be implemented upon project completion.  
