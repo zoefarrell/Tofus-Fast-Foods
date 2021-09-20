@@ -90,7 +90,8 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Posts Rendering| H | 6hrs|| 5hrs |
 | Page setups| H | 6hrs| | 5hrs |
 | React Strcture| H | 6hrs| | 5hrs |
-| Total| H |44 |
+| Total| H | | | 44hrs |
+
 
 ## SWOT Analysis
 
