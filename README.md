@@ -80,17 +80,17 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Planning | H | 3hrs| 3.5hrs | 3.5hrs |
-| Setting up airtabel | H | 3hrs| 2.5hrs | 2.5hrs |
-| Routing Setup| H | 6hrs| 5hrs | 5hrs |
-| Axios Requests| H | 6hrs| 5hrs | 5hrs |
-| Responsiveness| H | 6hrs| 5hrs | 5hrs |
-| Form Setup| H | 6hrs| 5hrs | 5hrs |
-| Form Handling| H | 6hrs| 5hrs | 5hrs |
-| Posts Rendering| H | 6hrs| 5hrs | 5hrs |
-| Page setups| H | 6hrs| 5hrs | 5hrs |
-| React Strcture| H | 6hrs| 5hrs | 5hrs |
-| Total| H | 6hrs| 5hrs | 5hrs |
+| Planning | H | 3hrs|  | 3.5hrs |
+| Setting up airtabel | H | 3hrs| | 2.5hrs |
+| Routing Setup| H | 6hrs|  | 5hrs |
+| Axios Requests| H | 6hrs|  | 5hrs |
+| Responsiveness| H | 6hrs|  | 5hrs |
+| Form Setup| H | 6hrs|  | 5hrs |
+| Form Handling| H | 6hrs| | 5hrs |
+| Posts Rendering| H | 6hrs|| 5hrs |
+| Page setups| H | 6hrs| | 5hrs |
+| React Strcture| H | 6hrs| | 5hrs |
+| Total| H | 6hrs| | 5hrs |
 
 ## SWOT Analysis
 
