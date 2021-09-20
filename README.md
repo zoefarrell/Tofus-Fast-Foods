@@ -114,4 +114,4 @@ Im still not very comfortable with react API structure and feel like that will t
 ### Opportunities:
 I have an opportunity to improve the above weaknesses. I also have an opportunity to add images to my work and a second API.
 ### Threats:
-Im afraid thinkgs will take me longer than they should becaue i feel as though i doubt mysek
+Im afraid things will take me longer than they should becaue i feel as though i doubt myself when it comes to my time managment which will make things take longer for me.
