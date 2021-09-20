@@ -22,7 +22,8 @@ A rating app for all of anime to be discussed.
 ![S4](https://user-images.githubusercontent.com/88213280/134049284-73d59da4-ff48-415d-9ad2-3f0c180c1d98.jpg)
 
 ## Component Hierarchy
-Show your component hierarchy here! Use [this](https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/image/GettingStartedWithReduxTutorial-React-Component-Structure.png) as an example.
+
+![Components Heirarchry](https://user-images.githubusercontent.com/88213280/134052160-ff552031-0d17-4c8c-9983-fbe4b6f17fe5.jpg)
 
 ## API and Data Sample
 `
@@ -106,9 +107,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 ## SWOT Analysis
 
 ### Strengths:
-
+I think initially I would have no problems getting my react componets setup. I am also very excited for the styling because i believe i have improved with that a lot.
 ### Weaknesses:
+Im still not very comfortable with react API structure and feel like that will take me time to put things together.
 
 ### Opportunities:
-
+I have an opportunity to improve the above weaknesses. I also have an opportunity to add images to my work and a second API.
 ### Threats:
+Im afraid thinkgs will take me longer than they should becaue i feel as though i doubt mysek
