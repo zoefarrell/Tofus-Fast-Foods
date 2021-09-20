@@ -87,7 +87,7 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 | React Strcture| H | 3hrs| | 3hrs |
 | add styling | H | 3hrs|  | 3hrs |
 | style each component | H | 3hrs|  | 3hrs |
-| Total| H | | | 0hrs |
+| Total| H | | | 41hrs |
 
 
 ## SWOT Analysis
@@ -96,7 +96,6 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 I think initially I would have no problems getting my react componets setup. I am also very excited for the styling because i believe i have improved with that a lot.
 ### Weaknesses:
 Im still not very comfortable with react API structure and feel like that will take me time to put things together.
-
 ### Opportunities:
 I have an opportunity to improve the above weaknesses. I also have an opportunity to add images to my work and a second API.
 ### Threats:
