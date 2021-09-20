@@ -82,14 +82,14 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | --- | :---: |  :---: | :---: | :---: |
 | Planning | H | 3hrs|  | 3.5hrs |
 | Setting up airtabel | H | 3hrs| | 2.5hrs |
-| Routing Setup| H | 6hrs|  | 5hrs |
-| Axios Requests| H | 6hrs|  | 5hrs |
-| Responsiveness| H | 6hrs|  | 5hrs |
-| Form Setup| H | 6hrs|  | 5hrs |
-| Form Handling| H | 6hrs| | 5hrs |
-| Posts Rendering| H | 6hrs|| 5hrs |
-| Page setups| H | 6hrs| | 5hrs |
-| React Strcture| H | 6hrs| | 5hrs |
+| Routing Setup/skeleton| H | 3hrs|  | 5hrs |
+| Axios Requests| H | 3hrs|  | 5hrs |
+| Responsiveness| H | 3hrs|  | 5hrs |
+| Form Setup| H | 3hrs|  | 5hrs |
+| Form Handling| H | 3hrs| | 5hrs |
+| Posts Rendering| H | 3hrs|| 5hrs |
+| Page setups| H | 3hrs| | 5hrs |
+| React Strcture| H | 3hrs| | 5hrs |
 | Total| H | | | 44hrs |
 
 
