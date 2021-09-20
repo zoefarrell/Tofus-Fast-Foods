@@ -11,8 +11,14 @@ A rating app for all of anime to be discussed.
 ## Wireframes
 
 ![Save 1](https://user-images.githubusercontent.com/88213280/134049234-6e6c66ac-4764-4c4e-bd10-6157ed4e308f.jpg)
+
+
 ![Save 2](https://user-images.githubusercontent.com/88213280/134049248-0beaf925-f508-4b5c-863d-3cb1696bafd9.jpg)
+
+
 ![S3](https://user-images.githubusercontent.com/88213280/134049267-60878d9c-18fe-4c54-bca3-d43bda025576.jpg)
+
+
 ![S4](https://user-images.githubusercontent.com/88213280/134049284-73d59da4-ff48-415d-9ad2-3f0c180c1d98.jpg)
 
 ## Component Hierarchy
