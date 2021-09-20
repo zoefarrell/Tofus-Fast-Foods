@@ -59,24 +59,16 @@ A rating app for all of anime to be discussed.
 The functionality will then be divided into two separate lists: MVP and PostMVP.  Carefully decide what is placed into your MVP, as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
-*React
+-render anime components onto page
+-create a button to create the anime component
+-allow users to edit that component
+-allow user to post comment about their favorite anime and add info
 
- *Linting
-Indent properly.
-Utilize high-quality, semantic variable names.
-Follow camelCase, kebab-case and PascalCase conventions.
-Remove unnecessary boilerplate React files and code.
-Remove all console.log()s and commented out code (functional notes and comments are acceptable).
-*Deployment
-Deployed via Netlify.
 #### PostMVP  
-
+-add second to gather more info about certain anime
+-add more user interface
 - Add More styling for now
 ## Timeframes
-
-Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
-
-Time frames are also key in the development cycle.  You have limited time to code all parts of your app.  Your estimates can then be used to evalute possibilities based on time needed and the actual time you have before the app must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add an additional hour or two to each component to play it safe. Throughout your project, keep track of your Time Invested and Actual Time and update your README regularly.
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
@@ -84,9 +76,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Setting up airtabel | H | 3hrs| | 2.5hrs |
 | Routing Setup/skeleton| H | 3hrs|  | 5hrs |
 | Axios Requests| H | 3hrs|  | 5hrs |
+| Improve Api calls| H | 3hrs|  | 5hrs |
 | Responsiveness| H | 3hrs|  | 5hrs |
 | Form Setup| H | 3hrs|  | 5hrs |
 | Form Handling| H | 3hrs| | 5hrs |
+| add Put| H | 3hrs|  | 5hrs |
 | Posts Rendering| H | 3hrs|| 5hrs |
 | Page setups| H | 3hrs| | 5hrs |
 | React Strcture| H | 3hrs| | 5hrs |
