@@ -73,18 +73,18 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Planning | H | 3hrs|  | 3.5hrs |
-| Setting up airtabel | H | 3hrs| | 2.5hrs |
-| Routing Setup/skeleton| H | 3hrs|  | 5hrs |
-| Axios Requests| H | 3hrs|  | 5hrs |
-| Improve Api calls| H | 3hrs|  | 5hrs |
-| Responsiveness| H | 3hrs|  | 5hrs |
-| Form Setup| H | 3hrs|  | 5hrs |
-| Form Handling| H | 3hrs| | 5hrs |
-| add Put| H | 3hrs|  | 5hrs |
-| Posts Rendering| H | 3hrs|| 5hrs |
-| Page setups| H | 3hrs| | 5hrs |
-| React Strcture| H | 3hrs| | 5hrs |
-| Total| H | | | 44hrs |
+| Setting up airtabel | H | 3hrs| | 2hrs |
+| Routing Setup/skeleton| H | 3hrs|  | 3hrs |
+| Axios Requests| H | 3hrs|  | 3hrs |
+| Improve Api calls| H | 3hrs|  | 3hrs |
+| Responsiveness| H | 3hrs|  | 3hrs |
+| Form Setup| H | 3hrs|  | 3hrs |
+| Form Handling| H | 3hrs| | 3hrs |
+| add Put| H | 3hrs|  | 3hrs |
+| Posts Rendering| H | 3hrs|| 3hrs |
+| Page setups| H | 3hrs| | 3hrs |
+| React Strcture| H | 3hrs| | 3hrs |
+| Total| H | | | 0hrs |
 
 
 ## SWOT Analysis
